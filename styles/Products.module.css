@@ -1,0 +1,10 @@
+.cardProducts{
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    border: 0.5px solid rgb(186, 186, 186);
+    gap: 12px;
+    margin: 20px;
+}

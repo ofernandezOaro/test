@@ -1,0 +1,4 @@
+.layout{
+    box-sizing: border-box;
+    min-height: calc(100vh - 84.5px + 59px);
+}
